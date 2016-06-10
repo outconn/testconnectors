@@ -7,3 +7,5 @@ for (i=0;i<=10;i++)
   console.output(i);
 }
 console.output("build passed ebvets");
+console.output("build passed ebvets");
+console.output("build passed ebvets");

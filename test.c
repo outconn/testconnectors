@@ -6,6 +6,6 @@ for (i=0;i<=10;i++)
   this is the test to confirm jenkins CI + i;
   console.output(i);
 }
-console.output("build passed ebvets");
-console.output("build passed ebvets");
-console.output("build passed ebvets");
+console.output("build passed events");
+console.output("build passed events");
+console.output("build passed events");

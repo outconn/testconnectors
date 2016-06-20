@@ -24,3 +24,4 @@ testing this to check jenkins CI - 2nd time
 testing this to check jenkins CI - 3rd time
 testing this to check to test - jenkins CI - for 3:15 build   
 test this new line for beeminder
+test this new line for beeminder - 2

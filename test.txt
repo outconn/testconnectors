@@ -33,3 +33,6 @@ test this new line for beeminder
 test this new line for beeminder - 2
 test this file - 29th june - 2016
 test this file - 29th june - 2016 - haha
+
+
+test this connectors    

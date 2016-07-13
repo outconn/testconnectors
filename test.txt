@@ -39,3 +39,4 @@ test this connectors
 
 
 test this connector - 7/7   
+test this connector - 13/7

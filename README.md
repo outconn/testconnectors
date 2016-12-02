@@ -1,2 +1,1 @@
-# ExploringJenkins
-To explore Jenkins
+This project is to explore Jenkins.

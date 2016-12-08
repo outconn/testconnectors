@@ -10,6 +10,5 @@ The testing is going on. Things are not working and I don't know why! I am tryin
 
 As expected nothing worked till I came back from Badminton.
 
-Struck in a complex issue! I have no idea how to resolve it.
 
 By Srivardhan

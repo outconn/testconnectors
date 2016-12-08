@@ -7,7 +7,6 @@ Things trying to findout are:
 
 Now the story time.
 
-As expected nothing worked till I came back from Badminton.
 
 
 By Srivardhan

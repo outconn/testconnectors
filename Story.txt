@@ -1,4 +1,4 @@
-Intro:
+testIntro:
 This file is for story.
 
 
@@ -12,3 +12,4 @@ Hurrah!!! Everytings working....
 New story
 
 test
+testing 
